@@ -2,7 +2,7 @@
 
 
 ### softswitch
-
+cd
 git clone git://github.com/mininet/mininet \
 	&& cd mininet/util \
 	&& sudo ./install.sh -3f \
