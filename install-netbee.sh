@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 echo !!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 echo "DO NOT USE procedure described in README.md for installation of ofsoftswitch"
