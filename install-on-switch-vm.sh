@@ -3,6 +3,7 @@
 #install on the vm hosting switch
 mkdir ~/ebpf
 ./install-ubpf.sh
+./install-netbee.sh
 ./install-ebpfswitch.sh
 
 
