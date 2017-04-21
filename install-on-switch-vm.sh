@@ -1,8 +1,7 @@
 #!/bin/bash
 #files from git clone git clone https://github.com/piotrekz79/colorado_demo.git
 #install on the vm hosting switch
-cd
-mkdir ebpf
+mkdir ~/ebpf
 ./install-ubpf.sh
 ./install-ebpfswitch.ah
 
