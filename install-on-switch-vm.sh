@@ -3,7 +3,7 @@
 #install on the vm hosting switch
 mkdir ~/ebpf
 ./install-ubpf.sh
-./install-ebpfswitch.ah
+./install-ebpfswitch.sh
 
 
 
